@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
   - https://www.snapshift.co/
   - https://www.margotmaquille.fr/
 
