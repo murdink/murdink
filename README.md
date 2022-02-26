@@ -1,5 +1,5 @@
 🔭 I’m currently working on:
-  - https://www.snapshift.co/
+  - https://getalma.eu/
   - https://www.margotmaquille.fr/
 
 <!--
