@@ -1,7 +1,8 @@
-🔭 I’m currently working on:
+🔭 Some of the projects I've been working on:
   - https://getalma.eu/
-  - https://www.margotmaquille.fr/
   - https://combohr.com/
+  - https://www.legalstart.fr/
+  - https://www.margotmaquille.fr/
 
 <!--
 **murdink/murdink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
