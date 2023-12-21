@@ -1,20 +1,8 @@
-🔭 Some of the projects I've been working on:
-  - https://getalma.eu/
-  - https://combohr.com/
-  - https://www.legalstart.fr/
-  - https://www.margotmaquille.fr/
+**Recent Projects**
 
-<!--
-**murdink/murdink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some projects I've recently worked on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Alma: A platform for financial transactions. [More info](https://getalma.eu/)
+- ComboHR: A tool for human resource management. [Details](https://combohr.com/)
+- LegalStart: A service for legal assistance. [View here](https://www.legalstart.fr/)
+- Margot Maquille: Professional makeup services. [See more](https://www.margotmaquille.fr/)
